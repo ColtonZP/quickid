@@ -1,0 +1,23 @@
+{
+  "name": "quickids",
+  "version": "1.0.1",
+  "description": "Effortlessly generate a unique 10 character id based on time and random characters.",
+  "main": "quickid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColtonZP/quickid.git"
+  },
+  "keywords": [
+    "generator",
+    "unique"
+  ],
+  "author": "Colton P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColtonZP/quickid/issues"
+  },
+  "homepage": "https://github.com/ColtonZP/quickid#readme"
+}

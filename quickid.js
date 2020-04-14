@@ -1,4 +1,4 @@
-function quickId() {
+exports.quickId = () => {
   const date = Date.now().toString().substring(3);
   let chars = '';
   for (let i = 0; i < 5; i++) {
@@ -12,5 +12,3 @@ function quickId() {
   }
   return `${chars}-${date}`;
 }
-
-module.exports.quickid = quickid;

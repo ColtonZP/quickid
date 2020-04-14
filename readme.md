@@ -1,6 +1,6 @@
-# quickid
+# quickids
 
-Effortlessly generate a unique 10 character id based on time and random character.
+Effortlessly generate a unique 10 character id based on time and random characters.
 
 # Install
 
@@ -8,7 +8,7 @@ Effortlessly generate a unique 10 character id based on time and random characte
 
 # Use
 ```
-import { quickiId } from 'quickid';
+import { quickId } from "quickids";
 
 const id = quickId();
 ```
